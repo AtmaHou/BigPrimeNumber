@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1475099500 source:d:\code\leetcode\bigprimenumber\main.cpp
+	<iostream>
+	<vector>
+	"bigint.h"
+	<memory.h>
+	<fstream>
+
+1475087020 d:\code\leetcode\bigprimenumber\bigint.h
+	<iostream>
+	<sstream>
+	<cmath>
+	<string>
+	<vector>
+	<math.h>
+	<stdio.h>
+
